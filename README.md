@@ -1,6 +1,5 @@
 # Projeto Job Application
 
-
 ## Índice
 
 - [1. Prefácio](#1-prefácio)
